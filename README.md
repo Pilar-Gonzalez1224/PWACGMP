@@ -1,4 +1,3 @@
-# PWACGA
-https://semiglocristian.github.io/PWACGA/
-Desarrollado por Cristian Garcia Alvarado.
- Ejemplo con pwa 
+# PWACGMP
+https://pilar-gonzalez1224.github.io/PWACGMP/
+Ejemplo de PWA 
